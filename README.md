@@ -41,26 +41,6 @@ Technologies Used
 -Backgrounds and Visual Effects
 
 
-Project Structure
-
-
-NthatiGlamour/
-│
-├── home.html
-├── about.html
-├── services.html
-├── bookings.html
-├── contact.html
-├── style.css
-│
-├── nthatigl_amour_logo.jpg
-├── images.jpg
-├── Nthati Moloi.jpg
-├── nthatiglamour_products.jpg
-├── makeup_looks_nthatiglamour.jpg
-└── expert_consultation_nthatiglamour.jpg
-
-
  Design Decisions
 
 - Colour palette: Cream, blush, rose, and warm gold — chosen to reflect a premium, feminine beauty brand
